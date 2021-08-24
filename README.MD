@@ -1,10 +1,11 @@
 __WCAT : Cat(Concatenate)__
+__................................................__
 _This project includes wcat commands, based on cat commands of linux, I have made clone of cat commands in which manipulation with files and its content is done._
 
 ```javascript
 node index.js -r a.txt
 ```
-> \*wcat\* is added to package.json file and environment variables of your computer by 
+> \*wcat\* is added to package.json file and to your environment variables using 
 ```#!/usr/bin/env node```
 >so from now we can use \*wcat\* instead of \*node index.js\*
 

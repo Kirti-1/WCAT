@@ -1,5 +1,7 @@
-__WCAT : Cat(Concatenate)__
-__................................................__
+
+__.................... WCAT ............................__
+>
+>
 _This project includes wcat commands, based on cat commands of linux, I have made clone of cat commands in which manipulation with files and its content is done._
 
 ```javascript
